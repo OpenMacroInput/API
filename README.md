@@ -1,3 +1,15 @@
+![WIP](https://github.com/EloiStree/EloiStree/blob/master/Images/WIP.png)  
+
+ The current application OMI as UDP port to inject command and value from your third app.  
+A udp interpreter hooks can be add to inject your own executor.  
+You can use UDP message to send command to your third app.  
+
+Those a present in the app but the documentation is missing.  
+Contact me if you want to play around with the tool.  
+
+--------------------------------------
+
+
 # API
 
 Find information about how to hook as developer to the application(s)
